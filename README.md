@@ -14,7 +14,6 @@ I'm a 18-year-old self-taught programmer passionate about technology and softwar
 * I am taking the **Harvard CS50** course to strengthen my computer science fundamentals.
 
 ### 📫 How to reach me:
-* LinkedIn: 
 * Email: lopezalmeidaalvaro@gmail.com
 
 ---
