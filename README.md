@@ -1,6 +1,6 @@
 # Hi! I'm Álvaro 👋
 
-**18-year-old Self-Taught Developer | Modern Software Engineering | AI-Augmented Workflow**
+**17-year-old Self-Taught Developer | Modern Software Engineering | AI-Augmented Workflow**
 
 I'm a passionate developer focused on building high-performance applications. I specialize in leveraging modern tools and state-of-the-art AI to solve complex technical challenges and deliver clean, scalable code.
 
